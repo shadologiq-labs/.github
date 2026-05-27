@@ -1,0 +1,53 @@
+name: Feature request
+description: Suggest an idea for one of the projects
+title: "feature: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got an idea? Good. Tell us the *user pain* first — that's the part that decides whether it lands.
+
+        **Heads up:** we won't add features that introduce telemetry, require a server, or add runtime dependencies. Anything else is fair game.
+
+  - type: dropdown
+    id: project
+    attributes:
+      label: Which project?
+      options:
+        - SNapp Extension
+        - Gapps Embed
+        - shadologiq.com (homepage)
+        - New project idea
+        - Other / unsure
+    validations:
+      required: true
+
+  - type: textarea
+    id: pain
+    attributes:
+      label: The user pain
+      description: What default behavior is bothering you? What are you doing today to work around it?
+      placeholder: "I have to copy/paste fields manually because..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: What you'd want instead
+      description: Your proposed solution. Be specific — UI, behavior, the change.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you've considered
+      description: Other approaches, existing tools, browser settings, anything you've ruled out.
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Screenshots, mockups, links to similar features in other tools, anything else.

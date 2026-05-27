@@ -1,0 +1,75 @@
+name: Bug report
+description: Report something that's not working as expected
+title: "bug: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. Filling this in carefully gets us to a fix faster.
+
+        **Before you file:** check the project's README, search existing issues, and try the latest version.
+
+  - type: dropdown
+    id: project
+    attributes:
+      label: Which project?
+      options:
+        - SNapp Extension
+        - Gapps Embed
+        - shadologiq.com (homepage)
+        - Org-level (.github)
+        - Other / unsure
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you see, and what did you expect to see instead?
+      placeholder: "I clicked X and Y happened. I expected Z."
+    validations:
+      required: true
+
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: Exact steps. Copy-pasteable URLs and inputs are gold.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. See error '...'
+    validations:
+      required: true
+
+  - type: input
+    id: browser
+    attributes:
+      label: Browser + version
+      description: e.g. Chrome 130, Firefox 132, Edge 130
+      placeholder: Chrome 130
+    validations:
+      required: true
+
+  - type: input
+    id: os
+    attributes:
+      label: Operating system
+      placeholder: Windows 11, macOS 15, Ubuntu 24.04
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Project version
+      description: For extensions, the version from chrome://extensions or about:addons. For Gapps Embed, the URL you're loading.
+      placeholder: v0.9.2 / commit hash / "latest from main"
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Screenshots, console errors, ServiceNow instance type, custom fields, anything else. **Sanitize anything sensitive before posting.**

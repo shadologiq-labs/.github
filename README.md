@@ -2,39 +2,36 @@
 
 ---
 
-# ShadoLogiq Labs Organization
+# ShadoLogiq Labs · `.github` repo
 
-This is the **organization-level repository** for ShadoLogiq Labs. It contains:
+This is the **organization-level repository** for ShadoLogiq Labs. It does two jobs:
 
-- **`profile/README.md`** — The org profile displayed on [github.com/shadologiq-labs](https://github.com/shadologiq-labs)
-- **`CONTRIBUTING.md`** — Community contribution guidelines
-- **`CODE_OF_CONDUCT.md`** — Code of conduct for all projects
-- **`SUPPORT.md`** — How to get help and report issues
-- **`SECURITY.md`** — Security vulnerability reporting policy
-- **`ISSUE_TEMPLATE/`** — Issue templates (bug report, feature request)
-- **`pull_request_template.md`** — PR template for all repos
+1. **The org profile** — `profile/README.md` is rendered by GitHub on [github.com/shadologiq-labs](https://github.com/shadologiq-labs) as the landing page for the org
+2. **Org-wide community files** — the standard `CONTRIBUTING`, `CODE_OF_CONDUCT`, `SECURITY`, `SUPPORT`, and issue/PR templates that GitHub applies to *every* repo in the org that doesn't override them locally
 
-## About ShadoLogiq Labs
+> 👉 **Most visitors don't need this repo.** The polished home is **[shadologiq.com](https://shadologiq.com)**. This repo is the connective tissue between the org's repos.
 
-ShadoLogiq Labs is an open-source organization focused on productivity tools and integrations:
+## Files
 
-- **[Gapps Embed](https://github.com/shadologiq-labs/gapps-embed)** — Embed Google apps grids on third-party sites
-- **[SNapp Extension](https://github.com/shadologiq-labs/snapp-ext)** — ServiceNow browser extension
+| File | Where it shows up |
+|---|---|
+| [`profile/README.md`](./profile/README.md) | The org landing page on GitHub |
+| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | The "Contributing" link on every repo's About sidebar |
+| [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) | The "Code of conduct" link on every repo |
+| [`SECURITY.md`](./SECURITY.md) | The "Security" tab on every repo |
+| [`SUPPORT.md`](./SUPPORT.md) | The "Get help" link when someone creates a new issue |
+| [`pull_request_template.md`](./pull_request_template.md) | Auto-filled when anyone opens a PR in any repo |
+| [`ISSUE_TEMPLATE/`](./ISSUE_TEMPLATE/) | Picker shown when someone opens a new issue |
 
-## Contributing
+## Active projects
 
-All contributors should read:
-1. [CONTRIBUTING.md](./CONTRIBUTING.md) — Community guidelines
-2. The specific project's `README.md` and `CLAUDE.md`
-3. [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) — Behavior expectations
+- **[Gapps Embed](https://github.com/shadologiq-labs/gapps-embed)** — Embed Google apps grids on any site. Live at [shadologiq.com/gapps-embed](https://shadologiq.com/gapps-embed/).
+- **[SNapp Extension](https://github.com/shadologiq-labs/snapp-ext)** — Context-aware ServiceNow browser extension. In rebrand; see [shadologiq.com/snapp-ext.html](https://shadologiq.com/snapp-ext.html).
+- **[shadologiq-labs.github.io](https://github.com/shadologiq-labs/shadologiq-labs.github.io)** — The brand homepage source.
 
-## Security
+## Updating these files
 
-For security vulnerabilities, see [SECURITY.md](./SECURITY.md).
-
----
-
-**Built with clarity, maintained with care.** 🚀
+Edits here propagate to every repo in the org. Be deliberate — these docs are the front door for contributors across all projects.
 
 ---
 

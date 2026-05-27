@@ -18,11 +18,11 @@ What changed?
 
 ## 🧪 Testing
 
-How did you test this? Include browser/version if applicable:
+How did you test this? Include browser/version where applicable:
 
-- [ ] Ran `npm run check` (lint + test + validate)
+- [ ] Ran the project's checks (e.g., `npm run check` for SNapp; manual browser testing for Gapps Embed — see [CONTRIBUTING.md](https://github.com/shadologiq-labs/.github/blob/main/CONTRIBUTING.md))
 - [ ] Manual testing on [Chrome / Firefox / Edge / live site]
-- [ ] Tested on mobile / tablet / desktop
+- [ ] Tested on mobile / tablet / desktop where the change has UI
 - [ ] No regressions in related features
 
 ## 📝 Checklist

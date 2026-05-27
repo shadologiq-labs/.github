@@ -12,7 +12,9 @@ If you find a vulnerability, please report it responsibly.
 
 ## How to report
 
-**Don't open a public issue.** Email the maintainers directly via the contact listed on the org profile, or use GitHub's [private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability) on the affected repo.
+**Don't open a public issue.** Use GitHub's [**private vulnerability reporting**](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability) on the affected repo — that's the only supported channel. Look for the *Security* tab on the repo, then *Report a vulnerability*.
+
+Why this channel? It's end-to-end encrypted, creates a private draft advisory we can collaborate on, and keeps the disclosure timeline coordinated between you and us.
 
 Include:
 
@@ -46,15 +48,16 @@ The extension reads ServiceNow form fields and writes to the clipboard. The thre
 Static iframe content with query-string and `postMessage` configuration. The threat model includes:
 
 - CSS injection via theme query parameters
-- Redirection via domain rewriting
-- Compromise of the loader.js path on host pages
-- Sprite or data manipulation
+- Redirection via the `domain` parameter (Workspace AccountChooser rewrite)
+- Sprite or data manipulation by a malicious fork
+- Iframe sandboxing bypasses via crafted `postMessage` payloads
 
 **Mitigations in place:**
-- Color params validated against `^#[0-9A-Fa-f]{3,8}$`
-- Domain params validated for well-formed hostnames
-- Key params validated against `^[a-z0-9-]+$`
-- `loader.js` uses Shadow DOM for CSS isolation from the host page
+- Color params validated against a strict hex pattern before being set as CSS variables
+- Domain params validated against a well-formed-hostname regex
+- App/category keys validated against `^[a-z0-9-]+$`
+- `postMessage` listener only accepts `type: 'gapps-embed-theme'` and ignores any other shape
+- No `eval`, no `innerHTML` with untrusted input, no dynamic script loading
 
 ---
 

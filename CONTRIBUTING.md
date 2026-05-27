@@ -46,33 +46,21 @@ Don't bundle a refactor with a bugfix with a docs update. Three PRs > one mega-P
 - Browser extensions → tested on each target (Chrome / Firefox / Edge)
 - Embed widgets → tested at the documented breakpoints
 
-### 7. Run `npm run check` (or the project's equivalent) before pushing
+### 7. Run pre-push checks (where the project has them)
 
-Lint + validate + test. CI runs the same thing; save the round-trip.
+Different projects have different validation surfaces:
+
+- **SNapp Extension** has `npm run check` (lint + validate + test). Run it before pushing.
+- **Gapps Embed** has no build step and no test suite by design. Manual browser testing at the three breakpoints (≥1024px / 600–1023px / <600px) is the validation.
+- **shadologiq-labs.github.io** — eyeball it in a browser; vanilla HTML/CSS, nothing to lint.
+
+CI (when configured) runs the same checks; saving the round-trip is just polite.
 
 ---
 
 ## PR template
 
-```markdown
-## Summary
-One sentence about what this does.
-
-## Why
-The user pain or upstream behavior this addresses.
-
-## Changes
-- Bullet points
-- Of what changed
-
-## Testing
-- [ ] Ran `npm run check`
-- [ ] Manually tested on [Chrome / Firefox / Edge / live site / ServiceNow instance]
-- [ ] No regressions in adjacent features
-
-## Screenshots / demo
-(If UI changed.)
-```
+Every repo uses the org-wide [`pull_request_template.md`](./pull_request_template.md). GitHub auto-fills it when you open a PR — fill in what applies, delete what doesn't.
 
 ---
 
@@ -99,14 +87,17 @@ The user pain or upstream behavior this addresses.
 
 ### SNapp Extension
 - Dual manifests (`manifest.chrome.json`, `manifest.firefox.json`) — sync them when adding permissions or content scripts.
-- Test on a real ServiceNow instance — mocks miss too much.
+- Test on a real ServiceNow instance — mocks miss too much. **PDIs (Personal Developer Instances)** are free from the [ServiceNow Developer Portal](https://developer.servicenow.com) — that's the standard on-ramp if you don't have access to one.
 - No telemetry, ever. Privacy-first is the whole point.
 - Content script timing: `document_idle` and frame execution matter.
+- Run `npm run check` (lint + validate + test) before pushing.
 
 ### Gapps Embed
 - **No build step.** All files must be drop-in usable as-is.
+- **No npm scripts.** There's no `package.json` and that's intentional — validation is browser-side.
 - Self-hosting must keep working — anyone should be able to fork, edit `apps.js`, and serve statically.
 - Test the three breakpoints: ≥1024px / 600–1023px / <600px.
+- Sprite refreshes must update both `assets/sprite.png` and the `.icon-*` CSS coords in `src/sprite.css` in lockstep.
 - Cache behavior matters — GitHub Pages serves with HTTP/2 multiplexing and long cache lifetimes; respect that.
 
 ---
