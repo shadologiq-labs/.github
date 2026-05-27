@@ -1,3 +1,7 @@
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · **README** · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · [Support](SUPPORT.md)
+
+---
+
 # ShadoLogiq Labs Organization
 
 This is the **organization-level repository** for ShadoLogiq Labs. It contains:
@@ -15,7 +19,7 @@ This is the **organization-level repository** for ShadoLogiq Labs. It contains:
 ShadoLogiq Labs is an open-source organization focused on productivity tools and integrations:
 
 - **[Gapps Embed](https://github.com/shadologiq-labs/gapps-embed)** — Embed Google apps grids on third-party sites
-- **[SNapp Extension](https://github.com/shadologiq-labs/snapp)** — ServiceNow browser extension
+- **[SNapp Extension](https://github.com/shadologiq-labs/snapp-ext)** — ServiceNow browser extension
 
 ## Contributing
 
@@ -31,3 +35,7 @@ For security vulnerabilities, see [SECURITY.md](./SECURITY.md).
 ---
 
 **Built with clarity, maintained with care.** 🚀
+
+---
+
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · **README** · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · [Support](SUPPORT.md)

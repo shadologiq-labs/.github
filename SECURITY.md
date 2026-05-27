@@ -1,3 +1,7 @@
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · **Security** · [Support](SUPPORT.md)
+
+---
+
 # Security policy
 
 ShadoLogiq Labs ships code that runs in your browser, on your machine. Privacy and security are foundational — not features.
@@ -74,3 +78,7 @@ Patches ship as version bumps (`v1.0.1`, `v1.1.2`, etc.) and are announced via G
 ---
 
 ShadoLogiq Labs runs on the client. That puts security in our hands and yours. Thanks for helping us keep it tight.
+
+---
+
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · **Security** · [Support](SUPPORT.md)

@@ -1,3 +1,7 @@
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · **Support**
+
+---
+
 # Support
 
 ShadoLogiq Labs is run by users, for users. There's no support contract, no SLA, no help desk. What we have is GitHub issues and a bias for fixing things.
@@ -70,3 +74,7 @@ If something is urgent, say so in the issue and explain why. We'll triage accord
 ---
 
 If you've read this far and you're still here, you're our kind of person. File the issue.
+
+---
+
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · **Support**

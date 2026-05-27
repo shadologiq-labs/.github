@@ -1,3 +1,7 @@
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Contributing](CONTRIBUTING.md) · **Code of Conduct** · [Security](SECURITY.md) · [Support](SUPPORT.md)
+
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -31,3 +35,7 @@ All complaints will be reviewed and investigated promptly and fairly. The projec
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
+
+---
+
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Contributing](CONTRIBUTING.md) · **Code of Conduct** · [Security](SECURITY.md) · [Support](SUPPORT.md)

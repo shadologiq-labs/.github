@@ -7,6 +7,8 @@
 
 ### AI-accelerated client-side logic — free, libre, and local
 
+### 🌐 **[shadologiq.com](https://shadologiq.com)** — the polished home
+
 </div>
 
 ---
@@ -29,15 +31,15 @@ A lightweight toolkit for embedding a Google apps grid on any site. Three presen
 
 Drop in one `<iframe>`, theme it via query string or `postMessage`, and rewrite URLs for any Workspace domain.
 
-[Live demo](https://shadologiq-labs.github.io/gapps-embed/) · [Repo](https://github.com/shadologiq-labs/gapps-embed) · [Docs](https://github.com/shadologiq-labs/gapps-embed#readme)
+[Live demo](https://shadologiq.com/gapps-embed/) · [Repo](https://github.com/shadologiq-labs/gapps-embed) · [Docs](https://github.com/shadologiq-labs/gapps-embed#readme)
 
-### 📌 [SNapp Extension](https://github.com/shadologiq-labs/snapp) — *launching soon*
+### 📌 [SNapp Extension](https://github.com/shadologiq-labs/snapp-ext) — *launching soon*
 
 A right-click upgrade for ServiceNow. Copy richly-formatted record links with metadata, inject standardized change templates, and auto-extract URLs and email contacts from form fields.
 
 Manifest V3 · Chrome, Edge, Firefox · all processing in-page · no network calls
 
-[Repo](https://github.com/shadologiq-labs/snapp) · store listings coming
+[Repo](https://github.com/shadologiq-labs/snapp-ext) · store listings coming
 
 ---
 

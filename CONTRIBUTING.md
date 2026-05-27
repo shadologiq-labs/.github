@@ -1,3 +1,7 @@
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · **Contributing** · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · [Support](SUPPORT.md)
+
+---
+
 # Contributing to ShadoLogiq Labs
 
 We don't file tickets — we rewrite the logic. If a platform is slowing you down and you've got an idea (or a patch), this is the place.
@@ -135,3 +139,7 @@ The user pain or upstream behavior this addresses.
 ---
 
 If you've made it this far, you probably get it. Welcome.
+
+---
+
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · **Contributing** · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · [Support](SUPPORT.md)
