@@ -23,11 +23,19 @@ This is the **organization-level repository** for ShadoLogiq Labs. It does two j
 | [`pull_request_template.md`](./pull_request_template.md) | Auto-filled when anyone opens a PR in any repo |
 | [`ISSUE_TEMPLATE/`](./ISSUE_TEMPLATE/) | Picker shown when someone opens a new issue |
 
-## Active projects
+## What we build
 
-- **[Gapps Embed](https://github.com/shadologiq-labs/gapps-embed)** — Embed Google apps grids on any site. Live at [shadologiq.com/gapps-embed](https://shadologiq.com/gapps-embed/).
-- **[SNapp Extension](https://github.com/shadologiq-labs/snapp-ext)** — Context-aware ServiceNow browser extension. In rebrand; see [shadologiq.com/snapp-ext.html](https://shadologiq.com/snapp-ext.html).
-- **[shadologiq-labs.github.io](https://github.com/shadologiq-labs/shadologiq-labs.github.io)** — The brand homepage source.
+- **[Gapps Embed](https://github.com/shadologiq-labs/gapps-embed)** — Embed Google apps grids on any site. Live at [gapps-embed.shadologiq.com](https://gapps-embed.shadologiq.com/).
+- **[SNapp Extension](https://github.com/shadologiq-labs/snapp-ext)** — Context-aware ServiceNow browser extension. In rebrand; see [snapp-ext.shadologiq.com](https://snapp-ext.shadologiq.com/).
+
+## What we vet
+
+- **[Tools](https://github.com/shadologiq-labs/tools)** — Vetted catalog of browser-side extensions, userscripts, and overlays. Live at [tools.shadologiq.com](https://tools.shadologiq.com/).
+- **[Apps](https://github.com/shadologiq-labs/apps)** — Vetted catalog of first-class apps that run across your devices. Live at [apps.shadologiq.com](https://apps.shadologiq.com/).
+
+## Brand
+
+- **[shadologiq-labs.github.io](https://github.com/shadologiq-labs/shadologiq-labs.github.io)** — The brand homepage source ([shadologiq.com](https://shadologiq.com)).
 
 ## Updating these files
 
