@@ -10,7 +10,7 @@ We don't file tickets — we rewrite the logic. If a platform is slowing you dow
 
 ## Before you start
 
-Each repo has its own architecture and conventions. **Read its `README.md` and `CLAUDE.md` first** — they describe what's there, why it's structured that way, and which decisions are load-bearing.
+Each repo has its own architecture and conventions. **Read its `README.md` first** — it describes what's there, how to use it, and which decisions are load-bearing. The project-specific section further down lists the rules that aren't obvious from the code.
 
 ## House rules
 

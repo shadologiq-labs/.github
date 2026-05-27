@@ -12,10 +12,9 @@ ShadoLogiq Labs is run by users, for users. There's no support contract, no SLA,
 
 1. **Check the project's README** — most "how do I..." questions are answered there
 2. **Search existing issues** — yours might already be filed (or closed)
-3. **Skim the `CLAUDE.md`** — architecture decisions and "why we do it this way" live there
-4. **Try the latest version** — bugs are often already fixed on `main`
+3. **Try the latest version** — bugs are often already fixed on `main`
 
-If you've done those four and still need help, file an issue. Pick the project repo, not this one.
+If you've done all three and still need help, file an issue. Pick the project repo, not this one.
 
 ---
 

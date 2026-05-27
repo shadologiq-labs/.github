@@ -28,7 +28,7 @@ How did you test this? Include browser/version where applicable:
 ## 📝 Checklist
 
 - [ ] Code follows the project's style guide
-- [ ] I've updated documentation (README, CLAUDE.md, etc.) if needed
+- [ ] I've updated documentation (README, etc.) if needed
 - [ ] Commit messages are clear and reference issues
 - [ ] No new dependencies were added (or discussed in context)
 - [ ] This PR is focused on a single concern
