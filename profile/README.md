@@ -62,7 +62,13 @@ Vanilla JavaScript and browser APIs. No runtime dependencies. No build steps unl
 
 ## Contributing
 
-If a platform's interface is slowing you down, [open an issue](https://github.com/shadologiq-labs) on the relevant repo and let's rewrite the logic together.
+If a platform's interface is slowing you down, file an issue on the relevant project repo and let's rewrite the logic together:
+
+- 🚀 [Gapps Embed issues](https://github.com/shadologiq-labs/gapps-embed/issues/new/choose)
+- 📌 [SNapp Extension issues](https://github.com/shadologiq-labs/snapp-ext/issues/new/choose)
+- 💬 [Discussions](https://github.com/orgs/shadologiq-labs/discussions) — for questions, ideas, and conversations that aren't bugs
+
+Before you dive in:
 
 - 📖 [Contribution guide](https://github.com/shadologiq-labs/.github/blob/main/CONTRIBUTING.md)
 - 🤝 [Code of conduct](https://github.com/shadologiq-labs/.github/blob/main/CODE_OF_CONDUCT.md)
