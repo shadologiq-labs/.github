@@ -29,7 +29,7 @@ Where a great tool already exists, we don't rebuild it. We run it through a writ
 
 ### 🗂 [Catalog](https://catalog.shadologiq.com/) — tools we actually use
 
-One vetted list covering both first-class apps that run across your devices — browsers, email clients, password managers — and the browser-side tools that liberate the UX of an app you already use: extensions, userscripts, embeds, overlays. [Browse the catalog](https://catalog.shadologiq.com/) · [Repo](https://github.com/shadologiq-labs/tools)
+One vetted list covering both first-class apps that run across your devices — browsers, email clients, password managers — and the browser-side tools that liberate the UX of an app you already use: extensions, userscripts, embeds, overlays. [Browse the catalog](https://catalog.shadologiq.com/) · [Repo](https://github.com/shadologiq-labs/catalog)
 
 ---
 
@@ -79,7 +79,7 @@ Vanilla JavaScript and browser APIs. No runtime dependencies. No build steps unl
 
 - 🚀 [Gapps Embed issues](https://github.com/shadologiq-labs/gapps-embed/issues/new/choose)
 - 📌 [SNapp Extension issues](https://github.com/shadologiq-labs/snapp-ext/issues/new/choose)
-- 🗂 [Catalog — propose an entry](https://github.com/shadologiq-labs/tools/issues/new/choose)
+- 🗂 [Catalog — propose an entry](https://github.com/shadologiq-labs/catalog/issues/new/choose)
 - 💬 [Discussions](https://github.com/orgs/shadologiq-labs/discussions) — for questions, ideas, and conversations that aren't bugs
 
 Before you dive in:
