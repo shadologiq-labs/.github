@@ -7,19 +7,17 @@
 
 ### Vet what works. Build what's missing.
 
-### A user-experience-first lab. Users with leverage, not users waiting in line.
-
-### 🌐 **[shadologiq.com](https://shadologiq.com)** — the polished home
+**A user-experience-first lab — by users, for users.** 🌐 [shadologiq.com](https://shadologiq.com)
 
 </div>
 
 ---
 
-**We vet what already works. We build what's missing.** The tools we actually use — apps, extensions, embeds, userscripts — live in the [Catalog](https://catalog.shadologiq.com/). The tools we built ourselves live in their own repos.
+The platforms you didn't design — locked-down systems at work, ad-supported apps at home — ship interfaces that respect neither your time nor your attention. We treat that as a UX problem, not a technology problem, and we fix it two ways: **vet** the tool that already gets it right, or **build** the one that doesn't exist yet.
 
-ShadoLogiq Labs is a **user-experience-first lab**. The platforms you didn't design — locked-down enterprise systems at work, ad-supported consumer products at home — ship interfaces that respect neither your time nor your cognitive load. We treat that as a UX problem, not a technology problem. What changes the math is empowering users to fix UX friction themselves. It used to take forever because the only path was waiting for someone else to care. AI changes that — judgment and taste remain yours, while synthesis and scale are on tap.
+We're not a software vendor — we're users learning, in real time, what AI makes possible. AI won't replace you; it replaces the excuses (*I'm not technical, that's not my job, there's no time*). Judgment and taste stay yours; synthesis and scale are on tap. Everything we ship or recommend is open source where possible, runs on your machine, and carries zero monetization or telemetry agenda.
 
-Everything we ship and everything we recommend is open source where possible, runs on your machine where possible, and has zero monetization or telemetry agenda. No affiliate links, no SEO bait, no funnel to a paid tier.
+> **This repo is the contributor side of the lab.** If you're here to *use* what we've vetted or built, start at [shadologiq.com](https://shadologiq.com). If you're here to help build it — read on.
 
 ---
 
@@ -57,25 +55,15 @@ Manifest V3 · Chrome, Edge, Firefox · all processing in-page · no network cal
 
 ---
 
-## How we work
-
-| | |
-|---|---|
-| **Good UX should be the default, not a privilege** | Every platform you didn't design ships interfaces that respect neither your time nor your cognitive load. We treat this as a UX problem, not a technology problem — and the right answer is to fix it, not file a ticket and wait. |
-| **Users with leverage, not users waiting in line** | What changes the math is empowering users to fix UX friction themselves. It used to take forever because the only path was waiting for someone else to care. AI changes that — judgment and taste remain yours, while synthesis and scale are on tap. |
-| **The browser is the runtime, you stay in control** | Everything we build and everything we recommend respects that boundary. No server-side dependencies in our builds, no telemetry agendas in what we vet, no agenda beyond the craft. Local execution isn't a feature — it's the floor. |
-
----
-
 ## Stack
 
-Vanilla JavaScript and browser APIs. No runtime dependencies. No build steps unless absolutely necessary. Everything is small, readable, and forkable.
+Vanilla JavaScript and browser APIs. No runtime dependencies. No build steps unless absolutely necessary. Everything runs in the browser, stays on your machine, and is small, readable, and forkable.
 
 ---
 
 ## Contributing
 
-**Built by users, for users.** Don't file a ticket — rewrite the logic. If a platform's interface is slowing you down, file an issue on the relevant project repo and let's fix it together:
+**By users, for users.** Don't file a ticket — rewrite the logic. Built a fix with your own AI, spotted a tool worth vetting, or want to sand down a rough edge on something we ship? Bring it:
 
 - 🚀 [Gapps Embed issues](https://github.com/shadologiq-labs/gapps-embed/issues/new/choose)
 - 📌 [SNapp Extension issues](https://github.com/shadologiq-labs/snapp-ext/issues/new/choose)
