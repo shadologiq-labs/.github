@@ -15,7 +15,7 @@
 
 ---
 
-**We vet what already works. We build what's missing.** Apps and tools we vet live in the [Apps](https://apps.shadologiq.com/) and [Tools](https://tools.shadologiq.com/) catalogs. Tools we built ourselves live in their own repos.
+**We vet what already works. We build what's missing.** The tools we actually use — apps, extensions, embeds, userscripts — live in the [Catalog](https://catalog.shadologiq.com/). The tools we built ourselves live in their own repos.
 
 ShadoLogiq Labs is a **user-experience-first lab**. The platforms you didn't design — locked-down enterprise systems at work, ad-supported consumer products at home — ship interfaces that respect neither your time nor your cognitive load. We treat that as a UX problem, not a technology problem. What changes the math is empowering users to fix UX friction themselves. It used to take forever because the only path was waiting for someone else to care. AI changes that — judgment and taste remain yours, while synthesis and scale are on tap.
 
@@ -27,13 +27,9 @@ Everything we ship and everything we recommend is open source where possible, ru
 
 Where a great tool already exists, we don't rebuild it. We run it through a written checklist — AI synthesis plus human review — and tell you exactly why it earned the recommendation. Every entry carries a **Spark-Vetted** seal with a grade (*clean* / *caveats* / *provisional*) and a re-review date.
 
-### 📦 [Apps](https://apps.shadologiq.com/) — cross-device
+### 🗂 [Catalog](https://catalog.shadologiq.com/) — tools we actually use
 
-First-class apps that run across your devices. Things that *are* the app, not a layer over one. [Catalog](https://apps.shadologiq.com/) · [Repo](https://github.com/shadologiq-labs/apps)
-
-### 🔧 [Tools](https://tools.shadologiq.com/) — browser-side
-
-Extensions, userscripts, overlays. Things that liberate the UX of an app you already use. [Catalog](https://tools.shadologiq.com/) · [Repo](https://github.com/shadologiq-labs/tools)
+One vetted list covering both first-class apps that run across your devices — browsers, email clients, password managers — and the browser-side tools that liberate the UX of an app you already use: extensions, userscripts, embeds, overlays. [Browse the catalog](https://catalog.shadologiq.com/) · [Repo](https://github.com/shadologiq-labs/tools)
 
 ---
 
@@ -83,8 +79,7 @@ Vanilla JavaScript and browser APIs. No runtime dependencies. No build steps unl
 
 - 🚀 [Gapps Embed issues](https://github.com/shadologiq-labs/gapps-embed/issues/new/choose)
 - 📌 [SNapp Extension issues](https://github.com/shadologiq-labs/snapp-ext/issues/new/choose)
-- 📦 [Apps catalog — propose an entry](https://github.com/shadologiq-labs/apps/issues/new/choose)
-- 🔧 [Tools catalog — propose an entry](https://github.com/shadologiq-labs/tools/issues/new/choose)
+- 🗂 [Catalog — propose an entry](https://github.com/shadologiq-labs/tools/issues/new/choose)
 - 💬 [Discussions](https://github.com/orgs/shadologiq-labs/discussions) — for questions, ideas, and conversations that aren't bugs
 
 Before you dive in:

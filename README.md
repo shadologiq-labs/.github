@@ -25,8 +25,7 @@ This is the **organization-level repository** for ShadoLogiq Labs. It does two j
 
 ## What we vet
 
-- **[Apps](https://github.com/shadologiq-labs/apps)** — Vetted catalog of first-class apps that run across your devices. Live at [apps.shadologiq.com](https://apps.shadologiq.com/).
-- **[Tools](https://github.com/shadologiq-labs/tools)** — Vetted catalog of browser-side extensions, userscripts, and overlays. Live at [tools.shadologiq.com](https://tools.shadologiq.com/).
+- **[Catalog](https://github.com/shadologiq-labs/tools)** — Vetted catalog of the tools we actually use: first-class apps (browsers, email, password managers) and browser-side extensions, userscripts, embeds, and overlays. Live at [catalog.shadologiq.com](https://catalog.shadologiq.com/).
 
 ## What we build
 
