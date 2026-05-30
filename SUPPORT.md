@@ -1,4 +1,4 @@
-[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · **Support**
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Ethos](ETHOS.md) · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · **Support**
 
 ---
 
@@ -76,4 +76,4 @@ If you've read this far and you're still here, you're our kind of person. File t
 
 ---
 
-[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · **Support**
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Ethos](ETHOS.md) · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · **Support**

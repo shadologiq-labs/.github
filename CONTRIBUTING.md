@@ -1,10 +1,10 @@
-[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · **Contributing** · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · [Support](SUPPORT.md)
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Ethos](ETHOS.md) · **Contributing** · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · [Support](SUPPORT.md)
 
 ---
 
 # Contributing to ShadoLogiq Labs
 
-We don't file tickets — we rewrite the logic. If a platform is slowing you down and you've got an idea (or a patch), this is the place.
+Don't file a ticket — rewrite the logic. If a platform is slowing you down and you've got an idea (or a patch), this is the place.
 
 ---
 
@@ -133,4 +133,4 @@ If you've made it this far, you probably get it. Welcome.
 
 ---
 
-[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · **Contributing** · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · [Support](SUPPORT.md)
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Ethos](ETHOS.md) · **Contributing** · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · [Support](SUPPORT.md)

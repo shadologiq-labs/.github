@@ -1,4 +1,4 @@
-[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · **README** · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · [Support](SUPPORT.md)
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Ethos](ETHOS.md) · **README** · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · [Support](SUPPORT.md)
 
 ---
 
@@ -15,6 +15,7 @@ This is the **organization-level repository** for ShadoLogiq Labs. It does two j
 
 | File | Where it shows up |
 |---|---|
+| [`ETHOS.md`](./ETHOS.md) | The canonical org-level vision — what ShadoLogiq Labs is and why; other repos link here |
 | [`profile/README.md`](./profile/README.md) | The org landing page on GitHub |
 | [`CONTRIBUTING.md`](./CONTRIBUTING.md) | The "Contributing" link on every repo's About sidebar |
 | [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) | The "Code of conduct" link on every repo |
@@ -42,4 +43,4 @@ Edits here propagate to every repo in the org. Be deliberate — these docs are 
 
 ---
 
-[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · **README** · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · [Support](SUPPORT.md)
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Ethos](ETHOS.md) · **README** · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · [Support](SUPPORT.md)

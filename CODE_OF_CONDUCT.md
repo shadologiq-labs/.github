@@ -1,4 +1,4 @@
-[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Contributing](CONTRIBUTING.md) · **Code of Conduct** · [Security](SECURITY.md) · [Support](SUPPORT.md)
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Ethos](ETHOS.md) · [Contributing](CONTRIBUTING.md) · **Code of Conduct** · [Security](SECURITY.md) · [Support](SUPPORT.md)
 
 ---
 
@@ -38,4 +38,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ---
 
-[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Contributing](CONTRIBUTING.md) · **Code of Conduct** · [Security](SECURITY.md) · [Support](SUPPORT.md)
+[✦ ShadoLogiq Labs](https://shadologiq.com) · [Org profile](https://github.com/shadologiq-labs) · [Ethos](ETHOS.md) · [Contributing](CONTRIBUTING.md) · **Code of Conduct** · [Security](SECURITY.md) · [Support](SUPPORT.md)

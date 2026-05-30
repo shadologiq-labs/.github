@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/shadologiq-labs/.github/main/assets/sll_logo_text_inverse.png" alt="ShadoLogiq Labs" width="320">
 </picture>
 
-### Vet what works. Build what's missing.
+### Use what works. Build what's missing. Share what you make.
 
 **A user-experience-first lab — by users, for users.** 🌐 [shadologiq.com](https://shadologiq.com)
 
@@ -13,7 +13,7 @@
 
 ---
 
-The platforms you didn't design — locked-down systems at work, ad-supported apps at home — ship interfaces that respect neither your time nor your attention. We treat that as a UX problem, not a technology problem, and we fix it two ways: **vet** the tool that already gets it right, or **build** the one that doesn't exist yet.
+The platforms you didn't design — locked-down systems at work, ad-supported apps at home — ship interfaces that respect neither your time nor your attention. We treat that as a UX problem, not a technology problem, and we fix it three ways: **use** the tool that already gets it right (vetted, so you don't have to be), **build** the one that doesn't exist yet, and **share** what you make so it's actually usable by the people around you.
 
 We're not a software vendor — we're users learning, in real time, what AI makes possible. AI won't replace you; it replaces the excuses (*I'm not technical, that's not my job, there's no time*). Judgment and taste stay yours; synthesis and scale are on tap. Everything we ship or recommend is open source where possible, runs on your machine, and carries zero monetization or telemetry agenda.
 
